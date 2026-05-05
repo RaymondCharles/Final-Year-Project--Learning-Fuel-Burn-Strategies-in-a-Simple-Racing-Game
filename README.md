@@ -1,5 +1,13 @@
 # Learning Fuel-Burn Strategies in a Simple Racing Game
 
+## Backup repository
+
+A backup copy of the final supporting material is available at:
+
+https://github.com/RaymondCharles/Final-Year-Project--Learning-Fuel-Burn-Strategies-in-a-Simple-Racing-Game
+
+The official submission was made through QM+ using the final report and supporting material upload links. This GitHub repository is provided only as a backup mirror of the final submitted code and documentation.
+
 ## 1. Project overview
 
 This project investigates how a fixed fuel budget should be allocated across a short race in order to maximise total distance travelled.

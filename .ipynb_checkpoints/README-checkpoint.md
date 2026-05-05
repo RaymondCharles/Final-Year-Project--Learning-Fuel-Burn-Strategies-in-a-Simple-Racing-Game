@@ -1,5 +1,13 @@
 # Learning Fuel-Burn Strategies in a Simple Racing Game
 
+## Backup repository
+
+A backup copy of the final supporting material is available at:
+
+https://github.com/RaymondCharles/Final-Year-Project--Learning-Fuel-Burn-Strategies-in-a-Simple-Racing-Game
+
+The official submission was made through QM+ using the final report and supporting material upload links. This GitHub repository is provided only as a backup mirror of the final submitted code and documentation.
+
 ## 1. Project overview
 
 This project investigates how a fixed fuel budget should be allocated across a short race in order to maximise total distance travelled.
@@ -26,19 +34,19 @@ The supporting material folder contains the following main files and folders.
 project/
 |
 ├── notebooks/
-│   ├── baseline_optimisation.ipynb
-│   ├── dqn_training.ipynb
-│   ├── rf_clean_dqn/
-│   ├── rf_dqn_logs/
-│   ├── rf_drag_dqn/
-│   ├── rf_drag_multiseed/
-│   ├── drag_burn_schedules.png
-│   ├── drag_continuous_vs_integer_benchmark.png
-│   ├── drag_energy_comparison.png
-│   ├── drag_energy_trajectory.png
+│   ├──baseline_optimisation.ipynb
+│   ├──dqn_training.ipynb
+│   ├──rf_clean_dqn/
+│   ├──rf_dqn_logs/
+│   ├──rf_drag_dqn/
+│   ├──rf_drag_multiseed/
+│   ├──drag_burn_schedules.png
+│   ├──drag_continuous_vs_integer_benchmark.png
+│   ├──drag_energy_comparison.png
+│   ├──drag_energy_trajectory.png
 │   ├── drag_multiseed_dqn_vs_integer_benchmark.png
-│   ├── drag_retention_comparison.png
-│   └── drag_retention_trajectory.png
+│   ├──drag_retention_comparison.png
+│   └──drag_retention_trajectory.png
 |
 └── README.md
 ```
