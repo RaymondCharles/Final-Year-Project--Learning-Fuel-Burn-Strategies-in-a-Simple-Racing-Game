@@ -1,5 +1,7 @@
 # Learning Fuel-Burn Strategies in a Simple Racing Game
 
+---
+
 ## Backup repository
 
 A backup copy of the final supporting material is available at:
@@ -7,6 +9,8 @@ A backup copy of the final supporting material is available at:
 https://github.com/RaymondCharles/Final-Year-Project--Learning-Fuel-Burn-Strategies-in-a-Simple-Racing-Game
 
 The official submission was made through QM+ using the final report and supporting material upload links. This GitHub repository is provided only as a backup mirror of the final submitted code and documentation.
+
+---
 
 ## 1. Project overview
 
@@ -308,3 +312,9 @@ Programme: BEng Computer Systems Engineering
 Project title: Learning Fuel-Burn Strategies in a Simple Racing Game  
 Supervisor: Soren Riis 
 
+## Troubleshooting
+
+If a package is missing, run the optional installation cell at the top of the DQN notebook or install the packages manually using:
+
+```bash
+pip install numpy matplotlib scipy gymnasium stable-baselines3 torch
